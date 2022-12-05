@@ -9,5 +9,5 @@ attributes:
         compositeelements:
           - code: image
             values:
-              it:
+              en:
                 id: "8"
