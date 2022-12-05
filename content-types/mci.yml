@@ -11,7 +11,13 @@ attributes:
       code: compo-image
       type: Composite
       name: Composition Image Description
+      names:
+        it: monoit2
+        en: monoen2
       compositeAttributes:
         - code: image
           type: Image
           name: Image Description
+          names:
+            it: monoit3
+            en: monoen3
