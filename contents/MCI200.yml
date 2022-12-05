@@ -1,0 +1,15 @@
+id: MCI200
+typeCode: MCI
+description: 1st monolist attribute
+mainGroup: free
+attributes:
+  - code: mono-compo-image
+    name: MonolistOfImages
+    elements:
+      - code: compo-image
+        name: CompositeOfImages
+        compositeelements:
+          - code: image
+            values:
+              it:
+                id: 8

@@ -1,0 +1,9 @@
+code: monolist-bundle
+description: This is the monolist bundle
+
+components:
+  content-types:
+    - content-types/mci.yml
+
+  contents:
+    - contents/MCI200.yml
