@@ -4,6 +4,9 @@ attributes:
   - code: monocompo
     type: Monolist
     name: Monolist Composition Image Description
+    names:
+      - it: monoit
+      - en: monoen
     nestedAttribute:
       code: compo-image
       type: Composite
