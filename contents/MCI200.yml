@@ -3,7 +3,7 @@ typeCode: MCI
 description: 1st monolist attribute
 mainGroup: free
 attributes:
-  - code: mono-compo-image
+  - code: monocompo
     elements:
       - code: compo-image
         compositeelements:
