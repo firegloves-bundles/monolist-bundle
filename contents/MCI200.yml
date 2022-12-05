@@ -10,4 +10,4 @@ attributes:
           - code: image
             values:
               it:
-                id: 8
+                id: "8"
