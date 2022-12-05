@@ -3,7 +3,7 @@ name: Content Type MCI
 attributes:
   - code: monocompo
     type: Monolist
-    names: "Monolist Composition Image Description"
+    name: Monolist Composition Image Description
     nestedAttribute:
       code: compo-image
       type: Composite
