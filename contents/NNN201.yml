@@ -1,0 +1,29 @@
+id: NNN201
+typeCode: NN1
+description: 1st monolist attribute
+mainGroup: free
+status: PUBLIC
+listModel: '9991'
+defaultModel: '9991'
+attributes:
+  - code: NNNcompo1
+    value: null
+    values: {}
+    elements:
+      - code: NNNcompo1
+        value: null
+        values: {}
+        elements: []
+        compositeelements:
+          - code: image1
+            value: null
+            values:
+              en:
+                correlationCode: '99991'
+                name: Ways to Invest.png
+            elements: []
+            compositeelements: []
+            listelements: {}
+        listelements: {}
+    compositeelements: []
+    listelements: {}

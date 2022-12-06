@@ -1,0 +1,116 @@
+code: NN1
+name: Content Type NN1
+status: '0'
+attributes:
+  - code: NNNcompo1
+    type: Monolist
+    names:
+      en: monoen
+      it: monoit
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+    nestedAttribute:
+      code: NNNcompo1
+      type: Composite
+      name: monoen2
+      names:
+        en: monoen2
+        it: monoit2
+      roles: []
+      disablingCodes: []
+      mandatory: false
+      listFilter: false
+      indexable: false
+      enumeratorStaticItems: null
+      enumeratorStaticItemsSeparator: null
+      enumeratorExtractorBean: null
+      validationRules:
+        minLength: null
+        maxLength: null
+        regex: null
+        rangeStartString: null
+        rangeEndString: null
+        rangeStartStringAttribute: null
+        rangeEndStringAttribute: null
+        equalString: null
+        equalStringAttribute: null
+        rangeStartDate: null
+        rangeEndDate: null
+        rangeStartDateAttribute: null
+        rangeEndDateAttribute: null
+        equalDate: null
+        equalDateAttribute: null
+        rangeStartNumber: null
+        rangeStartNumberAttribute: null
+        rangeEndNumber: null
+        rangeEndNumberAttribute: null
+        equalNumber: null
+        equalNumberAttribute: null
+        ognlValidation: null
+      nestedAttribute: null
+      compositeAttributes:
+        - code: image1
+          type: Image
+          name: monoen3
+          names:
+            en: monoen3
+            it: monoit3
+          roles: []
+          disablingCodes: []
+          mandatory: false
+          listFilter: false
+          indexable: false
+          enumeratorStaticItems: null
+          enumeratorStaticItemsSeparator: null
+          enumeratorExtractorBean: null
+          validationRules:
+            minLength: null
+            maxLength: null
+            regex: null
+            rangeStartString: null
+            rangeEndString: null
+            rangeStartStringAttribute: null
+            rangeEndStringAttribute: null
+            equalString: null
+            equalStringAttribute: null
+            rangeStartDate: null
+            rangeEndDate: null
+            rangeStartDateAttribute: null
+            rangeEndDateAttribute: null
+            equalDate: null
+            equalDateAttribute: null
+            rangeStartNumber: null
+            rangeStartNumberAttribute: null
+            rangeEndNumber: null
+            rangeEndNumberAttribute: null
+            equalNumber: null
+            equalNumberAttribute: null
+            ognlValidation: null
+          nestedAttribute: null
+          compositeAttributes: null
