@@ -4,6 +4,10 @@ description: 1st monolist attribute
 mainGroup: free
 attributes:
   - code: NNNcompo
+    value: null
+    values: {}
+    compositeelements: [ ]
+    listelements: { }
     elements:
       - code: NNN-image
         compositeelements:
