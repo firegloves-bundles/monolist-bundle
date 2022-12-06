@@ -16,7 +16,6 @@ attributes:
         listelements: {}
         compositeelements:
           - code: image
-            type: Image,
             value: null
             values:
               en:
