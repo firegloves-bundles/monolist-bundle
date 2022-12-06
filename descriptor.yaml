@@ -10,9 +10,9 @@ components:
     - content-models/NNN-model.yml
 
   contentTypes:
-    - content-types/mci.yml
+#    - content-types/mci.yml
     - content-types/NNN.yml
 
   contents:
-    - contents/MCI200.yml
+#    - contents/MCI200.yml
     - contents/NNN200.yml
