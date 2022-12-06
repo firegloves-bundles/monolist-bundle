@@ -1,0 +1,13 @@
+id: NNN200
+typeCode: NNN
+description: 1st monolist attribute
+mainGroup: free
+attributes:
+  - code: NNNcompo
+    elements:
+      - code: NNN-image
+        compositeelements:
+          - code: image-img
+            values:
+              en:
+                id: "8"

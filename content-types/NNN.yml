@@ -1,0 +1,23 @@
+code: NNN
+name: Content Type NNN
+attributes:
+  - code: NNNcompo
+    type: Monolist
+    name: Monolist Composition Image Description
+    names:
+      it: monoit
+      en: monoen
+    nestedAttribute:
+      code: NNN-image
+      type: Composite
+      name: Composition Image Description
+      names:
+        it: monoit2
+        en: monoen2
+      compositeAttributes:
+        - code: image
+          type: Image
+          name: Image Description
+          names:
+            it: monoit3
+            en: monoen3
