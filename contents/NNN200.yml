@@ -19,7 +19,7 @@ attributes:
             value: null
             values:
               en:
-                correlationCode: "99991"
+                correlationCode: "888"
                 name: "Ways to Invest.png"
             elements: [ ]
             compositeelements: [ ]
