@@ -2,6 +2,10 @@ code: monolist-bundle
 description: This is the monolist bundle
 
 components:
+
+  contentModels:
+    - content-models/NNN-model.yml
+
   contentTypes:
     - content-types/mci.yml
     - content-types/NNN.yml
