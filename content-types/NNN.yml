@@ -15,7 +15,7 @@ attributes:
         it: monoit2
         en: monoen2
       compositeAttributes:
-        - code: image
+        - code: image-img
           type: Image
           name: Image Description
           names:
