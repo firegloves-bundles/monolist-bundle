@@ -7,7 +7,9 @@ attributes:
     elements:
       - code: NNN-image
         compositeelements:
-          - code: image-img
+          - code: image
             values:
               en:
+                id: "9999"
+              it:
                 id: "9999"
