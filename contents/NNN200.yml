@@ -10,6 +10,10 @@ attributes:
     listelements: { }
     elements:
       - code: NNN-image
+        value: null
+        values: { }
+        elements: [ ]
+        listelements: {}
         compositeelements:
           - code: image
             values:
