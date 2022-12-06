@@ -1,7 +1,7 @@
 code: NNN
 name: Content Type NNN
-defaultContentModel: 10023
-defaultContentModelList: 10003
+defaultContentModel: 999
+defaultContentModelList: 999
 attributes:
   - code: NNNcompo
     type: Monolist
