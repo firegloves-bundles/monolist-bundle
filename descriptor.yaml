@@ -3,6 +3,9 @@ description: This is the monolist bundle
 
 components:
 
+  assets:
+    - assets/9999
+
   contentModels:
     - content-models/NNN-model.yml
 
