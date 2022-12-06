@@ -10,5 +10,5 @@ attributes:
           - code: image
             values:
               en:
-                id: "9999"
+                correlationCode: "9999"
                 name: "Ways to Invest.png"
