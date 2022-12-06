@@ -1,23 +1,23 @@
-code: NNN
-name: Content Type NNN
-defaultContentModel: 999
-defaultContentModelList: 999
+code: NN1
+name: Content Type NN1
+defaultContentModel: 9991
+defaultContentModelList: 9991
 attributes:
-  - code: NNNcompo
+  - code: NNNcompo1
     type: Monolist
     name: Monolist Composition Image Description
     names:
       it: monoit
       en: monoen
     nestedAttribute:
-      code: NNN-image
+      code: NNN-image1
       type: Composite
       name: Composition Image Description
       names:
         it: monoit2
         en: monoen2
       compositeAttributes:
-        - code: image
+        - code: image1
           type: Image
           name: Image Description
           names:
