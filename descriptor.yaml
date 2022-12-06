@@ -4,7 +4,7 @@ description: This is the monolist bundle
 components:
 
   assets:
-    - assets/99991/99991-descriptor.yml
+    - assets/99991/99991-descriptor.yaml
 
   contentModels:
     - content-models/NN1-model.yml
