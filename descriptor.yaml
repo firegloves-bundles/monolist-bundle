@@ -4,6 +4,8 @@ description: This is the monolist bundle
 components:
   contentTypes:
     - content-types/mci.yml
+    - content-types/NNN.yml
 
   contents:
     - contents/MCI200.yml
+    - contents/NNN200.yml
