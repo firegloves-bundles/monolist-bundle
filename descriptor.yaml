@@ -7,10 +7,13 @@ components:
     - assets/7/7-descriptor.yaml
 
   contentModels:
-    - content-models/monolist-bundle-template-descriptor.yml
+    - content-models/monolist-bundle-template-descriptor.yaml
 
   contentTypes:
-    - content-types/nnn-descriptor.yml
+    - content-types/nnn-descriptor.yaml
 
   contents:
-    - contents/nnn8-descriptor.yml
+    - contents/nnn8-descriptor.yaml
+
+  pages:
+    - pages/testpage-descriptor.yaml
