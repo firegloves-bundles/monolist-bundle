@@ -1,6 +1,8 @@
 code: NNN
 name: MOnolist
 status: '0'
+defaultContentModel: 99999
+defaultContentModelList: 99999
 attributes:
   - code: mono
     type: Monolist
