@@ -46,10 +46,10 @@ attributes:
     value:
       destType: 2
       urlDest: null
-      pageDest: topics
+      pageDest: homepage
       contentDest: null
       resourceDest: null
-      symbolicDestination: '#!P;topics!#'
+      symbolicDestination: '#!P;homepage!#'
     values:
       en: See all
       it: Vedi tutti

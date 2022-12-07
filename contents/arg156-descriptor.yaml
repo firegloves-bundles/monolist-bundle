@@ -59,10 +59,10 @@ attributes:
             value:
               destType: 2
               urlDest: null
-              pageDest: topics
+              pageDest: homepage
               contentDest: null
               resourceDest: null
-              symbolicDestination: '#!P;topics!#'
+              symbolicDestination: '#!P;homepage!#'
             values:
               en: Events this weekend
               it: Eventi questo weekend
@@ -105,10 +105,10 @@ attributes:
             value:
               destType: 2
               urlDest: null
-              pageDest: topics
+              pageDest: homepage
               contentDest: null
               resourceDest: null
-              symbolicDestination: '#!P;topics!#'
+              symbolicDestination: '#!P;homepage!#'
             values:
               en: What to do this week
               it: Cosa fare questa settimana
@@ -151,10 +151,10 @@ attributes:
             value:
               destType: 2
               urlDest: null
-              pageDest: topics
+              pageDest: homepage
               contentDest: null
               resourceDest: null
-              symbolicDestination: '#!P;topics!#'
+              symbolicDestination: '#!P;homepage!#'
             values:
               en: Metropolitan August
               it: Agosto metropolitano
@@ -182,10 +182,10 @@ attributes:
     value:
       destType: 2
       urlDest: null
-      pageDest: topics
+      pageDest: homepage
       contentDest: null
       resourceDest: null
-      symbolicDestination: '#!P;topics!#'
+      symbolicDestination: '#!P;homepage!#'
     values:
       en: Read more
       it: Esplora l'argomento

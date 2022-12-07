@@ -58,10 +58,10 @@ attributes:
             value:
               destType: 2
               urlDest: null
-              pageDest: topics
+              pageDest: homepage
               contentDest: null
               resourceDest: null
-              symbolicDestination: '#!P;topics!#'
+              symbolicDestination: '#!P;homepage!#'
             values:
               en: All tourist facilities in the city
               it: Tutte le strutture turistiche della città
@@ -104,10 +104,10 @@ attributes:
             value:
               destType: 2
               urlDest: null
-              pageDest: topics
+              pageDest: homepage
               contentDest: null
               resourceDest: null
-              symbolicDestination: '#!P;topics!#'
+              symbolicDestination: '#!P;homepage!#'
             values:
               en: Starting from Monday 3 September  municipal swimming pools will stay close
               it: Da lunedì 3 settembre chiudono le vasche della piscina comunale
@@ -150,10 +150,10 @@ attributes:
             value:
               destType: 2
               urlDest: null
-              pageDest: topics
+              pageDest: homepage
               contentDest: null
               resourceDest: null
-              symbolicDestination: '#!P;topics!#'
+              symbolicDestination: '#!P;homepage!#'
             values:
               en: 'Granting of contributions to organizations, associations, sports clubs'
               it: 'Concessione contributi ad enti, associazioni, società sportive'
@@ -181,10 +181,10 @@ attributes:
     value:
       destType: 2
       urlDest: null
-      pageDest: topics
+      pageDest: homepage
       contentDest: null
       resourceDest: null
-      symbolicDestination: '#!P;topics!#'
+      symbolicDestination: '#!P;homepage!#'
     values:
       en: Read more
       it: Esplora l'argomento
