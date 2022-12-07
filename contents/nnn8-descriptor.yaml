@@ -1,26 +1,29 @@
-id: NNN201
-typeCode: NN1
-description: 1st monolist attribute
+id: NNN8
+typeCode: NNN
+description: Monolist bundle content
 mainGroup: free
+groups:
+  - free
 status: PUBLIC
-listModel: '9991'
-defaultModel: '9991'
+viewPage: news
+listModel: '99999'
+defaultModel: '99999'
 attributes:
-  - code: NNNcompo1
+  - code: mono
     value: null
     values: {}
     elements:
-      - code: NNNcompo1
+      - code: mono
         value: null
         values: {}
         elements: []
         compositeelements:
-          - code: image1
+          - code: monoimg
             value: null
             values:
               en:
-                correlationCode: '99991'
-                name: Ways to Invest.png
+                correlationCode: '7'
+                name: 04495be3267c8202bc2f4eec303e6f66_d0.png
             elements: []
             compositeelements: []
             listelements: {}

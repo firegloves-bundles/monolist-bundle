@@ -1,12 +1,11 @@
-code: NN1
-name: Content Type NN1
+code: NNN
+name: MOnolist
 status: '0'
 attributes:
-  - code: NNNcompo1
+  - code: mono
     type: Monolist
     names:
-      en: monoen
-      it: monoit
+      en: mono
     roles: []
     disablingCodes: []
     mandatory: false
@@ -36,12 +35,11 @@ attributes:
       equalNumberAttribute: null
       ognlValidation: null
     nestedAttribute:
-      code: NNNcompo1
+      code: mono
       type: Composite
-      name: monoen2
+      name: null
       names:
-        en: monoen2
-        it: monoit2
+        en: mono
       roles: []
       disablingCodes: []
       mandatory: false
@@ -75,12 +73,11 @@ attributes:
         ognlValidation: null
       nestedAttribute: null
       compositeAttributes:
-        - code: image1
+        - code: monoimg
           type: Image
-          name: monoen3
+          name: null
           names:
-            en: monoen3
-            it: monoit3
+            en: monoimg
           roles: []
           disablingCodes: []
           mandatory: false
