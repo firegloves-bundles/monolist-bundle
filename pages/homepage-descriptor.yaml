@@ -1,0 +1,31 @@
+code: homepage
+parentCode: homepage
+titles:
+  en: Home
+  it: Home
+pageModel: agid_template
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: content_viewer_list
+    config:
+      modelId: '20011'
+      maxElemForItem: '3'
+      filters:
+        - attributeFilter: false
+          key: created
+          order: DESC
+        - attributeFilter: true
+          value: true
+          key: highlight
+          order: DESC
+      title_it: Argomenti in evidenza
+      title_en: Highlights topics
+      categories:
+        - topics
+      contentType: ARG
+    pos: 11

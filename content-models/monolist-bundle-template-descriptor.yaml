@@ -1,4 +1,0 @@
-id: 99999
-contentType: NNN
-description: monolist bundle template
-contentShape: "<article class=\"tcol-content\">\r\n<h1>XXXXXXXXXXXXXX</h1>\r\n\r\n      <img class=\"tcol-content-image\" src=\"$content.mono.get(0).monoimg.getImagePath(\"0\")\">\r\n\r\n  </article>"

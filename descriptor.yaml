@@ -1,19 +1,33 @@
 code: monolist-bundle
 description: This is the monolist bundle
 
+bundle-type: system-level-bundle
 components:
-
-  assets:
-    - assets/7/7-descriptor.yaml
-
-  contentModels:
-    - content-models/monolist-bundle-template-descriptor.yaml
-
-  contentTypes:
-    - content-types/nnn-descriptor.yaml
-
-  contents:
-    - contents/nnn8-descriptor.yaml
-
+  pageModels:
+    - pageModels/agid_template-descriptor.yaml
   pages:
-    - pages/testpage-descriptor.yaml
+    - pages/homepage-descriptor.yaml
+  contentTypes:
+    - contentTypes/arg-descriptor.yaml
+  contentModels:
+    - contentModels/lista-(arg)-descriptor.yaml
+    - contentModels/argomenti-in-evidenza-homepage-(arg)-descriptor.yaml
+    - contentModels/argomenti-in-pillole-(arg)-descriptor.yaml
+  assets:
+    - assets/testo/testo-descriptor.yaml
+    - assets/agidatplan/agidatplan-descriptor.yaml
+    - assets/agidatwork/agidatwork-descriptor.yaml
+    - assets/agidhot/agidhot-descriptor.yaml
+    - assets/agidwalk/agidwalk-descriptor.yaml
+    - assets/59/59-descriptor.yaml
+    - assets/174/174-descriptor.yaml
+  contents:
+    - contents/arg153-descriptor.yaml
+    - contents/arg156-descriptor.yaml
+    - contents/arg159-descriptor.yaml
+    - contents/arg169-descriptor.yaml
+    - contents/arg177-descriptor.yaml
+  categories:
+    - categories/categories-descriptor.yaml
+  labels:
+    - labels/labels-descriptor.yaml
