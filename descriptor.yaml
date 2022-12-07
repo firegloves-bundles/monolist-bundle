@@ -29,5 +29,3 @@ components:
     - contents/arg177-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml
-  labels:
-    - labels/labels-descriptor.yaml
